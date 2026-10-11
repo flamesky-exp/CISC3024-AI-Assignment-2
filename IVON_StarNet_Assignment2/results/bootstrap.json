@@ -1,0 +1,26 @@
+{
+  "adam": {
+    "nll_difference": 0.007361995056271553,
+    "ci95": [
+      0.003915329108713195,
+      0.010765000735409556
+    ],
+    "scope": "paired test images, conditional on these three head runs and the fixed backbone"
+  },
+  "adam_ts": {
+    "nll_difference": 0.007258767727762461,
+    "ci95": [
+      0.004297527205199003,
+      0.010245112841948864
+    ],
+    "scope": "paired test images, conditional on these three head runs and the fixed backbone"
+  },
+  "ivon_mean": {
+    "nll_difference": -0.0008020836976356804,
+    "ci95": [
+      -0.000986150576500222,
+      -0.0006109409601776862
+    ],
+    "scope": "paired test images, conditional on these three head runs and the fixed backbone"
+  }
+}

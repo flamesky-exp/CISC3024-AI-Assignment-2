@@ -1,0 +1,9 @@
+{
+  "python": "3.13.1 (tags/v3.13.1:0671451, Dec  3 2024, 19:06:28) [MSC v.1942 64 bit (AMD64)]",
+  "torch": "2.9.1+cu128",
+  "numpy": "2.2.6",
+  "platform": "Windows-11-10.0.22000-SP0",
+  "device": "cuda",
+  "gpu": "NVIDIA GeForce RTX 3070 Laptop GPU",
+  "deterministic": true
+}

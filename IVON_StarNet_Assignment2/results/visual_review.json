@@ -1,0 +1,8 @@
+{
+  "report": "output/pdf/IVON_StarNet_CIFAR10_Report.pdf",
+  "pages": 15,
+  "review": "Cover revised to match the supplied reference layout. Final cover, standalone abstract and standalone contents pages rendered and visually reviewed at page scale; body layout remains as previously reviewed.",
+  "overlapping_or_clipped_content_observed": false,
+  "unresolved_references": false,
+  "source_publication_status": "Pending user-specified destination and publication authorization"
+}

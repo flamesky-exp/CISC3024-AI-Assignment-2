@@ -1,0 +1,7 @@
+{
+  "posterior_restoration": true,
+  "normalized_probabilities": true,
+  "finite_update": true,
+  "positive_precision": true,
+  "metric_reference_cases": true
+}

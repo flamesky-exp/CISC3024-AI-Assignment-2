@@ -1,0 +1,19 @@
+{
+  "vendor/ivon/_ivon.py": {
+    "url": "https://raw.githubusercontent.com/team-approx-bayes/ivon/main/ivon/_ivon.py",
+    "sha256": "5b1e6b6235bc8d4ea94aee3c620a9b10aa9e62d6ede7f065f019650c2dbc6521"
+  },
+  "vendor/ivon/__init__.py": {
+    "url": "https://raw.githubusercontent.com/team-approx-bayes/ivon/main/ivon/__init__.py",
+    "sha256": "4ca8895cb0db4a6db312fda1a9eac95c48b5337eaec80966ffe0bc724e5305db"
+  },
+  "LICENSES/IVON-GPL-3.0.txt": {
+    "url": "https://raw.githubusercontent.com/team-approx-bayes/ivon/main/LICENSE",
+    "sha256": "3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986"
+  },
+  "vendor/IVON_README.md": {
+    "url": "https://raw.githubusercontent.com/team-approx-bayes/ivon/main/README.md",
+    "sha256": "6b2a66430b65c442e4e969c63139393dbd1c5e7146e265ab5282dc35b21208b9"
+  },
+  "backbone_sha256": "040c77f7c885cc668d1c05563a2afddded99a9916fc242e75eca69987f7ab364"
+}

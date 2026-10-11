@@ -1,0 +1,5 @@
+# Install the hardware-appropriate torch==2.9.1 and torchvision==0.24.1 first.
+numpy==2.2.6
+scipy==1.18.1
+matplotlib==3.10.6
+Pillow==11.3.0

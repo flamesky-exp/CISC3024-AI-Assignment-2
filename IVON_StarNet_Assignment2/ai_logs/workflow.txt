@@ -1,0 +1,25 @@
+Date: 2026-10-11 (Asia/Shanghai)
+This is a factual workflow summary, not a fabricated verbatim conversation.
+
+User asked to read Assignment 2 and follow the previous Assignment 1 workflow.
+User identified D:\CISC3024 project 1 and requested LaTeX.
+AI read the assignment and the previous report, implementation and saved configuration.
+AI explained a controlled IVON last-layer experiment; user authorized execution.
+AI searched recent Bayesian methods, verified ICML 2024 IVON metadata and inspected official code.
+Local sandbox startup failed. Approved shell execution was used for local experiment commands.
+AI copied the existing backbone, architecture, logo, split indices and license into ass2.
+Official IVON code and license were downloaded; SHA-256 hashes were recorded.
+Protocol was saved before new test metrics were computed.
+Numerical tests checked reference metrics, normalized probabilities, restored mean parameters,
+finite training updates, and positive posterior precision. All passed.
+60,000 fixed feature vectors were extracted with the frozen backbone in evaluation mode.
+A two-epoch smoke test used 2,048 training vectors and both optimizers; both completed.
+Formal runs searched two learning rates per optimizer at seed 42, then ran seeds 43 and 44.
+All selected heads used epoch 5. Learning rates were frozen before new test evaluation.
+Adam was better than IVON BMA on test NLL and ECE; the negative result was retained.
+Independent checkpoint reloading exactly reproduced all saved IVON BMA probabilities.
+Timing review removed unnecessary RNG bookkeeping for deterministic prediction and retimed
+the unchanged selected models with five warm-ups and 20 measured repetitions.
+Plots, summaries and conditional paired bootstrap intervals were generated from saved outputs.
+English LaTeX report was generated with explicit scope, limitations and source-publication status.
+No source-code webpage has yet been published. User destination/approval is required to publish.

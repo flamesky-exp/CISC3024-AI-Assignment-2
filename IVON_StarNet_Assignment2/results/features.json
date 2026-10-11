@@ -1,0 +1,8 @@
+{
+  "extraction_seconds": 10.169312900005025,
+  "dimensions": 128,
+  "backbone_parameters": 414010,
+  "head_parameters": 1290,
+  "checkpoint_epoch": 37,
+  "checkpoint_validation_accuracy": 85.96
+}

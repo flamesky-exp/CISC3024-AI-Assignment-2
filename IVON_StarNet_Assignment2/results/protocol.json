@@ -1,0 +1,31 @@
+{
+  "epochs": 60,
+  "batch_size": 1024,
+  "seeds": [
+    42,
+    43,
+    44
+  ],
+  "adam_lr_grid": [
+    0.001,
+    0.01
+  ],
+  "ivon_lr_grid": [
+    0.05,
+    0.2
+  ],
+  "weight_decay": 0.001,
+  "ivon_hess_init": 0.1,
+  "ivon_beta2": 0.999,
+  "ivon_clip_radius": 1.0,
+  "ess": 45000,
+  "validation_samples": 20,
+  "test_samples": 32,
+  "selection": "seed-42 validation NLL; epochs 1,5,10,...,60; two learning rates per optimizer; no test selection",
+  "protocol_date": "2026-10-11",
+  "feature_scaling": "training-only mean and population standard deviation",
+  "temperature_bounds": [
+    0.05,
+    20.0
+  ]
+}
