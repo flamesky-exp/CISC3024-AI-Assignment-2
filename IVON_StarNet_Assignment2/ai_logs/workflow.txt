@@ -22,4 +22,8 @@ Timing review removed unnecessary RNG bookkeeping for deterministic prediction a
 the unchanged selected models with five warm-ups and 20 measured repetitions.
 Plots, summaries and conditional paired bootstrap intervals were generated from saved outputs.
 English LaTeX report was generated with explicit scope, limitations and source-publication status.
-No source-code webpage has yet been published. User destination/approval is required to publish.
+At initial delivery the source-code webpage had not yet been published.
+The user subsequently created CISC3024-AI-Assignment-2 on GitHub and uploaded the project.
+Public visibility and the actual README, experiment script and StarNet source were verified
+at commit 6dc3a6988b8e124418aa78b70b4c2c42b02c0fcd on 2026-10-11.
+The local report and README were updated with the verified source-code webpage.

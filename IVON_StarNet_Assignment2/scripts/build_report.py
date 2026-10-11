@@ -498,10 +498,19 @@ vendored IVON source with its license, the reused backbone, selected head
 checkpoints, split indices, prediction arrays, raw metrics, and this LaTeX source.
 The authors' reference implementation is available at
 \url{https://github.com/team-approx-bayes/ivon}.
-\textbf{The assignment-specific source-code webpage has not yet been published.}
-The local source archive is prepared, but the assignment's requirement for a
-webpage link remains outstanding until this project is uploaded and its URL is
-inserted here. The official repository URL is not a substitute for that project URL.
+\textbf{Assignment-specific source-code webpage:}
+\begin{quote}\small
+\url{https://github.com/flamesky-exp/CISC3024-AI-Assignment-2}
+\end{quote}
+The project is publicly accessible inside the repository's
+\path{IVON_StarNet_Assignment2/} directory. The
+\href{https://github.com/flamesky-exp/CISC3024-AI-Assignment-2/blob/main/IVON_StarNet_Assignment2/scripts/experiment.py}{experiment implementation}
+and
+\href{https://github.com/flamesky-exp/CISC3024-AI-Assignment-2/blob/main/IVON_StarNet_Assignment2/README.md}{reproduction instructions}
+were verified on October 11, 2026. The verified upload is commit
+\href{https://github.com/flamesky-exp/CISC3024-AI-Assignment-2/commit/6dc3a6988b8e124418aa78b70b4c2c42b02c0fcd}{\texttt{6dc3a6988b8e}}.
+This project link identifies the assignment implementation; the authors' IVON
+repository above identifies the underlying reference optimizer.
 
 \begin{thebibliography}{9}
 \bibitem{shen} Y. Shen et al. ``Variational Learning is Effective for Large Deep
@@ -579,8 +588,8 @@ IVON state, posterior predictive average \\
 How AI implements it & Section 4: code integration, checks, smoke test and audit \\
 Experimental settings/results & Sections 5--7, raw JSON/NPZ, generated figures \\
 What was learned & Section 8: reflection draft for student review \\
-Webpage link of source code & Local archive prepared; project webpage publication
-and URL insertion still required \\\bottomrule
+Webpage link of source code & Public assignment repository verified; Section 9
+provides the project URL, code links, and verified upload commit \\\bottomrule
 \end{tabular}\end{table}
 
 The actual workflow encountered a local execution-sandbox initialization failure;

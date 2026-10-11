@@ -94,12 +94,14 @@ Alternatively upload the complete `report/` folder to a LaTeX editor and compile
 ## Submission status
 
 The report, code, results, LaTeX and reproduction materials are prepared.
-The project-specific source-code webpage is **not yet published**. The assignment
-requires a webpage link to this implementation. Upload the prepared source archive
-to the chosen repository or other course-accepted web location and insert the
-verified URL in the report before submission. An official IVON link alone does
-not fulfill that requirement. The learning reflection is an AI-assisted draft
-and should be checked against the student's own understanding.
+The project-specific source-code webpage is publicly available at
+https://github.com/flamesky-exp/CISC3024-AI-Assignment-2 . The project files are in
+`IVON_StarNet_Assignment2/`. The uploaded README and experiment implementation
+were verified on 2026-10-11 at commit `6dc3a6988b8e124418aa78b70b4c2c42b02c0fcd`.
+The local PDF and LaTeX now include this project link. The learning reflection
+is an AI-assisted draft and should be checked against the student's own
+understanding. Moodle submission and Turnitin checking remain outside this
+local preparation workflow.
 
 ## Sources and licenses
 
